@@ -2,15 +2,15 @@
 
 This starter template includes:
 
-- Laravel 9
-- Vite
-- Vue 3
-- Tailwind CSS (w/ `@tailwindcss/forms` and `@tailwindcss/aspect-ratio`)
-- Vue Router
-- Axios
-- Headless UI
-- Heroicons
-- TypeScript
+-   Laravel 9
+-   Vite
+-   Vue 3
+-   Tailwind CSS (w/ `@tailwindcss/forms` and `@tailwindcss/aspect-ratio`)
+-   Vue Router
+-   Axios
+-   Headless UI
+-   Heroicons
+-   TypeScript
 
 ## Installation
 
@@ -49,3 +49,13 @@ Open a new terminal instance and serve the application:
 ```bash
 php artisan serve
 ```
+
+## Deployment
+
+Build the Vue app:
+
+```bash
+npm run build
+```
+
+Now all you have to do is serve the Laravel app in a production environment.
