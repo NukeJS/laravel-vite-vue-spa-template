@@ -5,30 +5,30 @@
         "build": "vite build"
     },
     "dependencies": {
-        "@headlessui/vue": "^1.6.4",
-        "@heroicons/vue": "^1.0.6",
+        "@headlessui/vue": "^1.7.0",
+        "@heroicons/vue": "^2.0.10",
         "autoprefixer": "^10.4.7",
         "axios": "^0.27.2",
         "tailwindcss": "^3.1.3",
-        "vue": "^3.2.37",
-        "vue-router": "^4.0.16"
+        "vue": "^3.2.39",
+        "vue-router": "^4.1.5"
     },
     "devDependencies": {
         "@rushstack/eslint-patch": "^1.1.3",
-        "@tailwindcss/aspect-ratio": "^0.4.0",
-        "@tailwindcss/forms": "^0.5.2",
-        "@types/node": "^18.7.8",
-        "@vitejs/plugin-vue": "^3.0.3",
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "@tailwindcss/forms": "^0.5.3",
+        "@types/node": "^18.7.16",
+        "@vitejs/plugin-vue": "^3.1.0",
         "@vue/eslint-config-prettier": "^7.0.0",
-        "@vue/eslint-config-typescript": "^11.0.0",
+        "@vue/eslint-config-typescript": "^11.0.1",
         "@vue/tsconfig": "^0.1.3",
-        "eslint": "^8.17.0",
-        "eslint-plugin-vue": "^9.1.1",
-        "laravel-vite-plugin": "^0.5.4",
+        "eslint": "^8.23.0",
+        "eslint-plugin-vue": "^9.4.0",
+        "laravel-vite-plugin": "^0.6.0",
         "postcss": "^8.4.14",
         "prettier": "^2.7.0",
         "prettier-plugin-tailwindcss": "^0.1.11",
-        "typescript": "^4.7.3",
-        "vite": "^3.0.9"
+        "typescript": "^4.8.3",
+        "vite": "^3.1.0"
     }
 }
