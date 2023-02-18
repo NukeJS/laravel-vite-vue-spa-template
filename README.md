@@ -5,7 +5,7 @@ This starter template includes:
 -   Laravel 9
 -   Vite
 -   Vue 3
--   Tailwind CSS (w/ `@tailwindcss/forms` and `@tailwindcss/aspect-ratio`)
+-   Tailwind CSS (w/ `@tailwindcss/forms`)
 -   Vue Router
 -   Axios
 -   Headless UI
@@ -43,7 +43,7 @@ Install all `package.json` dependencies:
 npm install
 ```
 
-Run vite to server your assets/bundle:
+Run vite to serve your assets/bundle:
 
 ```bash
 npm run dev
